@@ -90,6 +90,6 @@ The server will run at http://localhost:3000
 
 > Here's a quick look at the design and flow of the project:
 
-|                Landing Page                |               Signup Form                |               Login Form               |               Image Generation                |              Buy Credits              |
-| :----------------------------------------: | :--------------------------------------: | :------------------------------------: | :-------------------------------------------: | :-----------------------------------: |
-| ![Landing Page](./screenshots/landing.png) | ![Signup Form](./screenshots/signup.png) | ![Login Form](./screenshots/login.png) | ![Generate Image](./screenshots/generate.png) | ![Buy Credits](./screenshots/buy.png) |
+|                Landing Page                |         Authentication Form          |               Image Generation                |              Buy Credits              |
+| :----------------------------------------: | :----------------------------------: | :-------------------------------------------: | :-----------------------------------: |
+| ![Landing Page](./screenshots/landing.png) | ![Auth Form](./screenshots/auth.png) | ![Generate Image](./screenshots/generate.png) | ![Buy Credits](./screenshots/buy.png) |
