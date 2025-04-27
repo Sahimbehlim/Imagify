@@ -14,11 +14,11 @@ const Footer = () => {
 
       <div className="flex gap-2 sm:gap-3 text-md sm:text-xl">
         <IconLink
-          href="https://www.linkedin.com/in/your-linkedin-id"
+          href="https://www.linkedin.com/in/behlimshaeem313/"
           iconClass="ri-linkedin-fill"
         />
         <IconLink
-          href="https://github.com/your-github-username"
+          href="https://github.com/Sahimbehlim"
           iconClass="ri-github-fill"
         />
       </div>
