@@ -49,7 +49,7 @@ CURRENCY="INR"
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/imagify.git
+git clone https://github.com/your-username/Imagify.git
 cd imagify
 ```
 
